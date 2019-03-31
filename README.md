@@ -3,3 +3,5 @@ The following is a step-by-step walkthrough of how to set up a basic CRUD app wi
 
 Client Folder = Front-end<br />
 Server Folder = Back-end
+
+![alt text](example.png)
